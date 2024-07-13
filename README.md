@@ -1,1 +1,1 @@
-"# cordova-mincurso" 
+# cordova-mincurso
